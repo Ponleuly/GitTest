@@ -1,3 +1,3 @@
 # Creating readme file with image
 
-![](/Taylor01.jpg)
+![](/GitTest/readme/Taylor01.jpg)
